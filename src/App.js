@@ -1,5 +1,5 @@
 import './App.css';
-import CharacterMaster from './components/CharacterMaster';
+import { CharacterMaster } from './components/CharacterMaster';
 import characters from "./data/characters";
 
 function App() {
